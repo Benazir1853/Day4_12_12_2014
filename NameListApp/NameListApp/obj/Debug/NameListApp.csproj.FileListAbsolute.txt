@@ -1,0 +1,9 @@
+H:\12_12_2014_Day4\NameListApp\NameListApp\bin\Debug\NameListApp.exe.config
+H:\12_12_2014_Day4\NameListApp\NameListApp\bin\Debug\NameListApp.exe
+H:\12_12_2014_Day4\NameListApp\NameListApp\bin\Debug\NameListApp.pdb
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.csprojResolveAssemblyReference.cache
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.Form1.resources
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.Properties.Resources.resources
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.csproj.GenerateResource.Cache
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.exe
+H:\12_12_2014_Day4\NameListApp\NameListApp\obj\Debug\NameListApp.pdb

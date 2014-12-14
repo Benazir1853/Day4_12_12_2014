@@ -1,0 +1,9 @@
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\bin\Debug\PurchaseTicket.App.exe.config
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.csprojResolveAssemblyReference.cache
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.Form1.resources
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.Properties.Resources.resources
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.csproj.GenerateResource.Cache
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\bin\Debug\PurchaseTicket.App.exe
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\bin\Debug\PurchaseTicket.App.pdb
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.exe
+H:\12_12_2014_Day4\TicketPurchaseApp\PurchaseTicket.App\obj\Debug\PurchaseTicket.App.pdb

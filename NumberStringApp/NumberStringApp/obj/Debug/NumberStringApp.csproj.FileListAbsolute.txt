@@ -1,0 +1,9 @@
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\bin\Debug\NumberStringApp.exe.config
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\bin\Debug\NumberStringApp.exe
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\bin\Debug\NumberStringApp.pdb
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.csprojResolveAssemblyReference.cache
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.Form1.resources
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.Properties.Resources.resources
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.csproj.GenerateResource.Cache
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.exe
+H:\12_12_2014_Day4\NumberStringApp\NumberStringApp\obj\Debug\NumberStringApp.pdb

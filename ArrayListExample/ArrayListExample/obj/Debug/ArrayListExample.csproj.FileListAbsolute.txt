@@ -1,0 +1,2 @@
+H:\12_12_2014_Day4\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+H:\12_12_2014_Day4\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csprojResolveAssemblyReference.cache

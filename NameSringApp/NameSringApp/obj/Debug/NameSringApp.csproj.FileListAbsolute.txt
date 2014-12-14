@@ -1,0 +1,9 @@
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\bin\Debug\NameSringApp.exe.config
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\bin\Debug\NameSringApp.exe
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\bin\Debug\NameSringApp.pdb
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.csprojResolveAssemblyReference.cache
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.Form1.resources
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.Properties.Resources.resources
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.csproj.GenerateResource.Cache
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.exe
+H:\12_12_2014_Day4\NameSringApp\NameSringApp\obj\Debug\NameSringApp.pdb
